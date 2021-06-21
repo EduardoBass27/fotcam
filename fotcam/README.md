@@ -7,7 +7,6 @@
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Fotcam" src="https://user-images.githubusercontent.com/49580304/96668015-0c7eb600-130f-11eb-9193-e02e6b209b01.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/EduardoBass27/fotcam"><img title="Github" src="https://img.shields.io/badge/EduardoBass27/fotcam-brightgreen?style=for-the-badge&logo=github"></a>
